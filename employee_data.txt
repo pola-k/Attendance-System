@@ -1,0 +1,10 @@
+1001 Emily Thompson Director Executive emily.thompson@company.com Dir3ctorPass!
+1002 Robert Williams Senior_Accountant Finance robert.williams@company.com Acct#2021
+1003 Sarah Johnson HR_Manager Human_Resources sarah.johnson@company.com HR4Life!
+1004 James Brown Junior_Accountant Finance james.brown@company.com Finance@2022
+1005 Laura Davis Lead_Engineer Engineering laura.davis@company.com Eng!n33rLead
+1006 Michael Wilson Marketing_Specialist Marketing michael.wilson@company.com Mark3ting@1
+1007 Jennifer Garcia Sales_Manager Sales jennifer.garcia@company.com Sal3s2023
+1008 David Martinez Software_Developer Engineering david.martinez@company.com Dev#2023
+1009 Amy Rodriguez Support_Specialist Customer_Support amy.rodriguez@company.com Supp0rt!
+1010 Christopher Lewis Product_Designer Engineering christopher.lewis@company.com Des!gn2023
